@@ -1,3 +1,7 @@
+/**
+ * The function creates a table with 5 rows and 5 columns, and fills each cell with a random number
+ * between 0 and 50.
+ */
 function createTable(){
     let row,col;
     document.write(document.getElementById('nav').innerHTML);
